@@ -1,2 +1,7 @@
-PyJWT
+streamlit
+pyjwt==2.8.0
+cryptography
 requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
