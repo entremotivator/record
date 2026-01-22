@@ -6,3 +6,4 @@ google-auth-oauthlib
 google-auth-httplib2
 PyJWT
 load_dotenv
+plotly.express
